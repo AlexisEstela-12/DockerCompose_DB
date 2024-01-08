@@ -1,0 +1,12 @@
+# Ignora la carpeta node_modules
+node_modules
+package-lock.json
+
+
+# Ignora los archivos relacionados a credenciales
+.env
+
+# Ignora dockerignore
+.dockerignore
+
+# ignora el gitignore
